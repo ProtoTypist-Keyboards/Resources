@@ -2,6 +2,9 @@
 
 Welcome to the official GitHub repository for Prototypist Keyboards! Here, you'll find various resources intended for personal use by our customers. This repository includes files such as keyboard plate designs and PCB (Printed Circuit Board) files for our range of products. Please feel free to explore and download the files that pertain to your purchased products.
 
+
+## Currently under construction - changes being made daily
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -47,7 +50,7 @@ All files and resources in this repository are provided under the Attribution-No
 Contact
 For further assistance or inquiries, please contact us at:
 
-Email: cjae@prototypist.net
+Email: jae@prototypist.net
 Website: www.prototypist.net
 
 
